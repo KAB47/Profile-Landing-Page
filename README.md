@@ -10,7 +10,7 @@ Having undertaken software engineering internships, I aim to apply my experience
 
 In addition, I have experience in marketing, SEO, content creation, research, administration, product design, and mechanical engineering.
 
-Explore my software engineering projects through my profile.
+Explore my software engineering projects through my GitHub profile.
 
 You can also view my design and research focused portfolio here: https://drive.google.com/drive/folders/1N0sGpquz38ap66RjcvVWaUVMfzkRENh3?usp=drive_link
 
