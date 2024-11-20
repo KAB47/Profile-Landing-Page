@@ -12,7 +12,7 @@ In addition, I have experience in marketing, SEO, content creation, research, ad
 
 Explore my software engineering projects through my GitHub profile.
 
-You can also view my design and research focused portfolio here: https://drive.google.com/drive/folders/1N0sGpquz38ap66RjcvVWaUVMfzkRENh3?usp=drive_link
+You can also view my design and research focused portfolio here: https://drive.google.com/drive/u/1/folders/1C5TiERwzbDMatyCpGlsJwFsrD7TRa-rZ
 
 
 
