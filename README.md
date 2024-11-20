@@ -2,7 +2,7 @@ Landing Page
 
 Seeking a Role in Technology
 
-I am passionate about coding and technology, with competencies in Python, JavaScript, C#, C++, Flask, Postman, Azure, and React.
+I am passionate about coding and technology, and have a particular interest on open-source projects. I bring competencies in Python, JavaScript, C#, C++, Flask, Postman, Azure, and React.
 
 I have completed projects focused on both backend and frontend engineering, including a Bookstore API(Application Programming Interface), a Crypto-Trading application, and a booking website.
 
