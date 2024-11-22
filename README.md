@@ -6,7 +6,7 @@ I am passionate about coding and technology, and have a particular interest in o
 
 I have completed projects focused on both backend and frontend engineering, including a Bookstore API(Application Programming Interface), a Crypto-Trading application, and a booking website.
 
-Having undertaken software engineering internships, I aim to apply my experience and knowledge in a new role, increase my knowledge base and give my best to a role.
+Having undertaken software engineering internships, I aim to apply my experience, and knowledge in a new role, increase my knowledge base and give my best.
 
 In addition, I have experience in marketing, SEO, content creation, research, administration, product design, and mechanical engineering.
 
