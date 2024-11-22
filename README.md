@@ -8,9 +8,9 @@ I have completed projects focused on both backend and frontend engineering, incl
 
 Having undertaken software engineering internships, I aim to apply my experience, and knowledge in a new role, increase my knowledge base and give my best.
 
-In addition, I have experience in marketing, SEO, content creation, research, administration, product design, and mechanical engineering.
-
 Explore my software engineering projects through my GitHub repo section.
+
+In addition, I have experience in marketing, SEO, content creation, research, administration, product design, and mechanical engineering.
 
 Seperate to software, you can view my design and research focused portfolio here: https://drive.google.com/drive/u/1/folders/1C5TiERwzbDMatyCpGlsJwFsrD7TRa-rZ
 
