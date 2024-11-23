@@ -8,7 +8,7 @@ I have completed projects focused on both backend and frontend engineering, incl
 
 Having undertaken software engineering internships, I aim to apply my experience, and knowledge in a new role, increase my knowledge base and give my best.
 
-Explore my software engineering projects through my GitHub repo section.
+Explore my software engineering projects through my GitHub repo section here: https://github.com/KAB47?tab=repositories
 
 In addition, I have experience in marketing, SEO, content creation, research, administration, product design, and mechanical engineering.
 
