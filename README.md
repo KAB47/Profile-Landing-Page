@@ -1,6 +1,6 @@
 Landing Page
 
-I am passionate about coding and technology, and have a particular interest in open-source projects. I bring competencies in Python, JavaScript, C#, C++, Object Orientated Programming (OOP), Flask, Postman, Azure, and React.
+I am passionate about coding and technology, and have a particular interest in open-source projects. I bring competencies in Python, JavaScript, C#, C++, HTML, CSS, Object Orientated Programming (OOP), Flask, Postman, Azure, and React.
 
 I have completed projects focused on both backend and frontend engineering, including a Bookstore API (Application Programming Interface), other APIs, a Crypto-Trading application, OOP applications, and a booking website.
 
