@@ -5,7 +5,7 @@ I am passionate about data analysis, data science, coding and technology, and ha
 - Excel 
 - SQL 
 - Python (Pandas, NumPy, SciPy)
-- Data Visulisation tools (Matplotlib, PowerBI & Tableau)
+- Data Visualisation Tools (Matplotlib, PowerBI & Tableau)
 - Data Warehouse Management (Azure & MongoDB)
 - Postman
 - Other programming languages/methods: JavaScript, C#, C++, HTML, CSS, Object Orientated Programming (OOP), APIs & Flask
