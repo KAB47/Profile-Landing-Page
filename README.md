@@ -4,7 +4,7 @@ I am passionate about data analysis, data science, coding and technology, and ha
 
 - Excel 
 - SQL 
-- Python (Pandas, NumPy, SciPy)
+- Python (Pandas, NumPy & SciPy)
 - Data Visualisation Tools (Matplotlib, PowerBI & Tableau)
 - Data Warehouse Management (Azure & MongoDB)
 - Postman
