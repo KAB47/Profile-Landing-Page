@@ -14,7 +14,7 @@ I have completed projects focused on data analysis, data science, and both backe
 
 Explore my software engineering projects through my GitHub repo section here: https://github.com/KAB47?tab=repositories
 
-In addition, I have experience in marketing, SEO, content creation, research, administration, product design, and mechanical engineering.
+In addition, I have experience in marketing, SEO, content creation/social media, graphic design, research, administration, product design, and mechanical engineering.
 
 Seperate to software and data, you can view my mechanical engineering, design and research focused portfolio here: https://drive.google.com/drive/u/1/folders/1C5TiERwzbDMatyCpGlsJwFsrD7TRa-rZ
 
