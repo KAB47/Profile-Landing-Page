@@ -1,6 +1,8 @@
 Landing Page
 
-I am passionate about data analysis, data science, coding and technology, and have a particular interest in open-source projects. I bring competencies in:
+Passionate about data analysis, data science, coding and technology, and have a particular interest in open-source projects. 
+
+I bring competencies in:
 
 - Excel 
 - SQL 
