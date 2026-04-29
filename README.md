@@ -10,7 +10,7 @@ I am passionate about data analysis, data science, coding and technology, and ha
 - Postman
 - Other programming languages/methods: JavaScript, C#, C++, HTML, CSS, Object Orientated Programming (OOP), APIs & Flask
 
-I have completed projects focused on data analysis, data science, and both backend and frontend engineering (fullstack), including analysis of lead routing and COVID Cases/Death data, an AI model, a Bookstore API (Application Programming Interface), other APIs, a Crypto-Trading application, OOP applications, and a booking website.
+I have completed projects focused on data analysis, data science, and both backend and frontend engineering (fullstack), including analysis of lead routing and COVID Cases/Death data, a Custom Knowledge RAG Chatbot AI model, a Bookstore API (Application Programming Interface), other APIs, a Crypto-Trading application, OOP applications, and a booking website.
 
 Explore my data science/data analytics & software engineering projects through my GitHub repo section here: https://github.com/KAB47?tab=repositories
 
